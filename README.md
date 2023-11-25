@@ -17,7 +17,7 @@ Para instalar e executar este projeto, você precisará das seguintes ferramenta
 
 - Arduino IDE
 -  [Tago.io](https://tago.io)
--  Bibliotecas no Arduino IDE:
+-  Bibliotecas no Arduino IDE: LiquidCrytal I2C  DHT sensor library  DHT sensor library
 
 ### Arduino
 
@@ -27,4 +27,4 @@ Para instalar e executar este projeto, você precisará das seguintes ferramenta
 
 ## Utilização
 
-Uma vez em funcionamento, o projeto irá coletar informações em tempo real sobre a produção de energia das usinas e armazená-las em um servidor, como o Tago. Posteriormente, esses dados serão utilizados para realizar análises detalhadas e extrair insights valiosos a fim de aprimorar o gerenciamento das usinas e otimizar a produção de energia. Esse processo de coleta e análise de dados permitirá tomar decisões mais informadas e eficazes para melhorar o desempenho global do sistema elétrico.
+No projeto do totem, buscamos simplificar a implementação de sensores, priorizando a eficiência na coleta de informações vitais, como temperatura e batimentos cardíacos. Optaremos por sensores de proximidade e outros dispositivos de detecção que sejam robustos e de fácil integração, garantindo uma abordagem mais simples e acessível. A escolha de sensores será orientada pela facilidade de uso, mantendo a precisão necessária na obtenção de dados vitais. Nosso foco será em tecnologias confiáveis e de baixa complexidade, para assegurar uma implementação eficaz e manutenção simplificada.
